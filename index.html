@@ -25,15 +25,15 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a:active {
     text-decoration: none;
 }
 
-.redir{
-    color:black;
+.redir {
+    color: black;
 }
 
 .redir a:link {
@@ -47,15 +47,13 @@ a:active {
 }
 
 .redir a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .redir a:active {
     text-decoration: underline;
 }
-
 </style>
-
 <noscript>
     <div class="container redir">
         <div class="col-md-12">
@@ -65,20 +63,23 @@ a:active {
         </div>
     </div>
 </noscript>
-<body>
 <script type="text/javascript">
-    // window.location.replace("http://type.aerial-bold.com/tw/");
-    // window.location.replace("google.com");
-    window.location = "http://type.aerial-bold.com/tw/";
+// window.location.replace("http://type.aerial-bold.com/tw/");
+// window.location.replace("google.com");
+// window.location = "http://type.aerial-bold.com/tw/";
+$(document).ready(function() {
+    var url = "http://type.aerial-bold.com/tw/";
+        $(location).attr('href',url);
+});
 </script>
 
+<body>
     <div class="container ghost">
         <div class="col-md-12">
             <h1>This is a re-direct page for <a href="http://type.aerial-bold.com/tw/">The Aerial Bold Project</a>.</h1>
             <h2>If you are not automagically re-directed to the project page, please click <a href="http://type.aerial-bold.com/tw/">here</a>.</h2>
         </div>
     </div>
-
 </body>
 
 </html>
