@@ -1,10 +1,3 @@
-<center> <h1>Sorry!</h1></center>
-
-<center> <h2>Aerial-Bold.com is under construction </h2></center>
-
-<br>
-***
-<center> <h2>In the meantime, check out Benedikt and Joey's <a href="letterhunt.aerial-bold.com">Letter Finder App</a> to join the planetary search for letterforms!</h2></center>
-
-<br>
-<center> To get the latest, shiniest updates on the project check out the  <a href = "https://www.kickstarter.com/projects/357538735/aerial-bold-kickstart-the-planetary-search-for-let/posts">Aerial Bold Updates</a> </center>
+<h1>This is a re-direct page for <a href="http://type.aerial-bold.com/tw/">The Aerial Bold Project</a>.</h1>
+<h2>If you are not automagically re-directed to the project page, please click <a href="http://type.aerial-bold.com/tw/">here</a>.</h2>
+<h2>You will need to enable javascript to view the <a href="http://type.aerial-bold.com/tw/">The Aerial Bold Project</a>.</h2>
